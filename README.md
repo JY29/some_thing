@@ -43,6 +43,8 @@ git remote set-url origin https://mirrors.aliyun.com/homebrew/homebrew-core.git
 #git remote set-url origin https://github.com/Homebrew/homebrew-#core.git
  
 #3. 替换 / 还原 homebrew-bottles 访问地址
+#判断自己正在使用的shell
+echo $SHELL
 #BASH 终端操作方式
 # 替换 homebrew-bottles 访问 URL: 
 echo 'export HOMEBREW_BOTTLE_DOMAIN=https://mirrors.aliyun.com/homebrew/homebrew-bottles' >> ~/.bash_profile 
