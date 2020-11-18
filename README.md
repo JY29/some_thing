@@ -8,7 +8,7 @@ mkdir homebrew &&
 #test your homebrew
 brew --help
 ```
-![Screen Shot 2020-11-19 at 1.52.52 AM](media/16057213489108/Screen%20Shot%202020-11-19%20at%201.52.52%20AM.png)
+![Screen Shot 2020-11-19 at 1.52.52 AM](https://github.com/JY29/some_thing/raw/main/Screen%20Shot%202020-11-19%20at%201.52.52%20AM.png)
 
 ### solution for problem your may meet
 curl: (7) Failed to connect to raw.githubusercontent.com port 443: Connection refused
